@@ -1,26 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>RF Transportes</title>
-
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
-
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Poppins', sans-serif;
-      background: #0d1b2a;
-      color: white;
-    }
-
-    header {
-      padding: 15px 20px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      background: #0d1b2a;
+;
     }
 
     .logo {
@@ -152,8 +130,4 @@
 <a class="whatsapp" href="https://wa.me/598XXXXXXXX">WhatsApp</a>
 
 <footer>
-  © 2026 RF Transportes
-</footer>
-
-</body>
-</html>
+  © 2026 RF
